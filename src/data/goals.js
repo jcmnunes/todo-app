@@ -13,7 +13,7 @@ export default [
   {
     id: 'goal#3',
     description: 'Include some basic styles',
-    comment: 'Some basic CSS styles were written (have a look at the Todo component for instance).',
+    comment: 'Some basic CSS styles were written.',
   },
   {
     id: 'goal#4',
