@@ -1,0 +1,23 @@
+.Todo {
+    display: flex;
+    padding: 10px;
+}
+
+.Todo label {
+    margin-left: 6px;
+}
+
+.Todo--completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.Todo__id {
+    border: 1px solid rebeccapurple;
+    border-radius: 1000px;
+    color: rebeccapurple;
+    font-size: 12px;
+    padding: 1px 4px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}

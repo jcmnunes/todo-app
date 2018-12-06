@@ -1,0 +1,12 @@
+.Goal {
+    margin: 10px;
+}
+
+.Goal label {
+    margin-left: 6px;
+}
+
+.Goal__comment {
+    font-size: 12px;
+    color: gray;
+}
