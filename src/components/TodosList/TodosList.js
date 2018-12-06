@@ -22,7 +22,7 @@ class TodosList extends Component {
 TodosList.propTypes = {
   isLoading: PropTypes.bool.isRequired,
   setTodoCompletedState: PropTypes.func.isRequired,
-  todos: PropTypes.func.isRequired,
+  todos: PropTypes.array.isRequired,
 };
 
 const mapStateToProps = state => ({
