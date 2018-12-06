@@ -1,7 +1,6 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import Goals from './Goals';
-import Goal from './Goal';
 
 jest.mock('../../data/goals', () => {
   return [
